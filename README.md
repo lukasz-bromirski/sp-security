@@ -8,6 +8,15 @@ Copy of the https://null0.pl repository.
 * [IOS XR hardening](https://tools.cisco.com/security/center/resources/increase_security_ios_xr_devices.html)
 * [IOS XR LTPS on ASR 9000](https://supportforums.cisco.com/document/93456/asr9000xr-local-packet-transport-services-lpts-copp)
 
+## Service Provider security groups, forums, projects and associations
+
+* [MANRS, Mutually Agreed Network Routing Security ISP guides](https://www.manrs.org/isps/guide/)
+
+## Service Provider Network Operating Groups
+
+* [NANOG](https://www.nanog.org/)
+* [PLNOG](https://plnog.pl/en/)
+
 ## Data plane
 
 ### unicast Reverse Path Filtering (uRPF)
@@ -27,6 +36,11 @@ Copy of the https://null0.pl repository.
 * [RFC 6192: Protecting the Router Control Plane](https://datatracker.ietf.org/doc/html/rfc6192)
 * [RFC 7454: BGP Operations and Security](https://tools.ietf.org/html/rfc7454)
 * [Security Control Plane on Cisco devices](https://www.ciscopress.com/articles/article.asp?p=2928193&seqNum=3)
+* [Cisco IOS/IOS-XE hardening guide](https://www.cisco.com/c/en/us/support/docs/ip/access-lists/13608-21.html)
+* [Cisco IOS XR hardening guide](https://tools.cisco.com/security/center/resources/increase_security_ios_xr_devices.html)
+* [Cisco NX-OS hardening guide](https://tools.cisco.com/security/center/resources/securing_nx_os.html)
+* [Cisco 6500/6800 Supervisor 2T Control Plane configuration](https://www.cisco.com/c/en/us/support/docs/switches/catalyst-6500-series-switches/118806-config-catalyst-00.html)
+* [Juniper protecting Routing Engine Day One](https://kb.juniper.net/library/CUSTOMERSERVICE/Securing_RouteEngine2.pdf)
 
 ### BGP blackholing
 
