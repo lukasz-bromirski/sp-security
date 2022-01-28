@@ -3,20 +3,6 @@ Collected, groomed and maintained by Łukasz Bromirski. Feel free to use and sha
 
 Copy of the https://null0.pl repository.
 
-## General routing security
-
-* [IOS XR hardening](https://tools.cisco.com/security/center/resources/increase_security_ios_xr_devices.html)
-* [IOS XR LTPS on ASR 9000](https://supportforums.cisco.com/document/93456/asr9000xr-local-packet-transport-services-lpts-copp)
-
-## Service Provider security groups, forums, projects and associations
-
-* [MANRS, Mutually Agreed Network Routing Security ISP guides](https://www.manrs.org/isps/guide/)
-
-## Service Provider Network Operating Groups
-
-* [NANOG](https://www.nanog.org/)
-* [PLNOG](https://plnog.pl/en/)
-
 ## Data plane
 
 ### unicast Reverse Path Filtering (uRPF)
