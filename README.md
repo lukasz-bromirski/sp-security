@@ -3,24 +3,6 @@ Collected, groomed and maintained by Łukasz Bromirski. Feel free to use and sha
 
 Copy of the https://null0.pl repository.
 
-## Management plane
-
-## Services plane
-
-## Control plane
-
-* [RFC 3882: Configuring BGP to Block Denial-of-Service Attacks](https://datatracker.ietf.org/doc/html/rfc3882)
-* [RFC 5635: Remote Triggered Black Hole Filtering with Unicast Reverse Path Forwarding](https://datatracker.ietf.org/doc/html/rfc5635) 
-* [RFC 6192: Protecting the Router Control Plane](https://datatracker.ietf.org/doc/html/rfc6192)
-* [RFC 7454: BGP Operations and Security](https://tools.ietf.org/html/rfc7454)
-* [RFC 7999: BGP BLACKHOLE community](https://datatracker.ietf.org/doc/html/rfc7999)
-* [Security Control Plane on Cisco devices](https://www.ciscopress.com/articles/article.asp?p=2928193&seqNum=3)
-* [Cisco IOS/IOS-XE hardening guide](https://www.cisco.com/c/en/us/support/docs/ip/access-lists/13608-21.html)
-* [Cisco IOS XR hardening guide](https://tools.cisco.com/security/center/resources/increase_security_ios_xr_devices.html)
-* [Cisco NX-OS hardening guide](https://tools.cisco.com/security/center/resources/securing_nx_os.html)
-* [Cisco 6500/6800 Supervisor 2T Control Plane configuration](https://www.cisco.com/c/en/us/support/docs/switches/catalyst-6500-series-switches/118806-config-catalyst-00.html)
-* [Juniper protecting Routing Engine Day One](https://kb.juniper.net/library/CUSTOMERSERVICE/Securing_RouteEngine2.pdf)
-
 ### BGP blackholing
 
 * [S/RTBH with ASR 9000 and Cisco IOS XR](https://www.cisco.com/c/en/us/support/docs/routers/asr-9000-series-aggregation-services-routers/116386-configure-asr9000-00.html)
