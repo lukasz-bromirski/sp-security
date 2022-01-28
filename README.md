@@ -3,15 +3,6 @@ Collected, groomed and maintained by Łukasz Bromirski. Feel free to use and sha
 
 Copy of the https://null0.pl repository.
 
-## Data plane
-
-### unicast Reverse Path Filtering (uRPF)
-
-* [RFC 2827: Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://datatracker.ietf.org/doc/html/rfc2827)
-* [RFC 3704: Ingress Filtering for Multihomed Networks](https://datatracker.ietf.org/doc/html/rfc3704)
-* [Unicast Reverse Path Forwarding for the ISPs](https://www.cisco.com/c/dam/en_us/about/security/intelligence/urpf.pdf)
-* [Ivan Pepelnjak - Does uRPF Make Sense in Internet Service Provider Networks?](https://blog.ipspace.net/2014/01/does-urpf-make-sense-in-internet.html)
-
 ## Management plane
 
 ## Services plane
