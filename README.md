@@ -21,8 +21,8 @@ Copy of the https://null0.pl repository.
 
 ### unicast Reverse Path Filtering (uRPF)
 
-* [RFC 2827 Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://datatracker.ietf.org/doc/html/rfc2827)
-* [RFC 3704 Ingress Filtering for Multihomed Networks](https://datatracker.ietf.org/doc/html/rfc3704)
+* [RFC 2827: Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://datatracker.ietf.org/doc/html/rfc2827)
+* [RFC 3704: Ingress Filtering for Multihomed Networks](https://datatracker.ietf.org/doc/html/rfc3704)
 * [Unicast Reverse Path Forwarding for the ISPs](https://www.cisco.com/c/dam/en_us/about/security/intelligence/urpf.pdf)
 * [Ivan Pepelnjak - Does uRPF Make Sense in Internet Service Provider Networks?](https://blog.ipspace.net/2014/01/does-urpf-make-sense-in-internet.html)
 
@@ -33,8 +33,10 @@ Copy of the https://null0.pl repository.
 ## Control plane
 
 * [RFC 3882: Configuring BGP to Block Denial-of-Service Attacks](https://datatracker.ietf.org/doc/html/rfc3882)
+* [RFC 5635: Remote Triggered Black Hole Filtering with Unicast Reverse Path Forwarding](https://datatracker.ietf.org/doc/html/rfc5635) 
 * [RFC 6192: Protecting the Router Control Plane](https://datatracker.ietf.org/doc/html/rfc6192)
 * [RFC 7454: BGP Operations and Security](https://tools.ietf.org/html/rfc7454)
+* [RFC 7999: BGP BLACKHOLE community](https://datatracker.ietf.org/doc/html/rfc7999)
 * [Security Control Plane on Cisco devices](https://www.ciscopress.com/articles/article.asp?p=2928193&seqNum=3)
 * [Cisco IOS/IOS-XE hardening guide](https://www.cisco.com/c/en/us/support/docs/ip/access-lists/13608-21.html)
 * [Cisco IOS XR hardening guide](https://tools.cisco.com/security/center/resources/increase_security_ios_xr_devices.html)
