@@ -3,31 +3,3 @@ Collected, groomed and maintained by Łukasz Bromirski. Feel free to use and sha
 
 Copy of the https://null0.pl repository.
 
-### BGP blackholing
-
-* [S/RTBH with ASR 9000 and Cisco IOS XR](https://www.cisco.com/c/en/us/support/docs/routers/asr-9000-series-aggregation-services-routers/116386-configure-asr9000-00.html)
-* [S/RTBH and D/RTBH on Cisco IOS and IOS-XE](https://www.cisco.com/c/dam/en_us/about/security/intelligence/blackhole.pdf)
-* [BGP blackholing, sinkholing and FlowSec usage](https://lukasz.bromirski.net/docs/prezos/certee2017/BGP_Security_101.pdf)
-
-### BGP sinkholing
-
-* [NANOG #28: Sinkholes](https://archive.nanog.org/meetings/nanog28/presentations/sink.pdf)
-* [APRICOT 2015: Sinkholes](https://www.senki.org/wp-content/uploads/2015/03/009-Sink-Holes-2012-02-25.pdf)
-
-### BGP QPPB (QoS-Policy Propagation with BGP)
-
-* [Configuring BGP QPPB on Cisco ASR 9000](https://community.cisco.com/t5/service-providers-documents/asr9000-xr-implementing-qos-policy-propagation-for-bgp-qppb/ta-p/3136639)
-* [QPPB in Cisco IOS and IOS-XE](http://ptgmedia.pearsoncmg.com/images/9781587201240/appendix/QPPBSection.pdf)
-
-### BGP FlowSpec
-
-* [BGP FlowSpec in IOS XR](https://supportforums.cisco.com/document/12226726/asr9000xr-understanding-bgp-flowspec-bgp-fs)
-
-### BGP RPKI
-
-* [RIPE RPKI tools](https://www.ripe.net/manage-ips-and-asns/resource-management/rpki/tools-and-resources)
-* [BGP RPKI with IOS XR](https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/217020-bgp-rpki-with-xr7-cisco8000-whitepaper.html)
-* [BGP RPKI with JunOS](https://www.juniper.net/documentation/en_US/release-independent/nce/topics/topic-map/nce-187-bgp-rpki-tn-overview.html)
-* [BGP RPKI NIST monitor](https://rpki-monitor.antd.nist.gov/)
-* [BGP RPKI RIPE per-country stats](https://stat.ripe.net/widget/country-routing-stats)
-* [BGP RPKI Internet Society tools](https://www.internetsociety.org/deploy360/securing-bgp/statistics/)
